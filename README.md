@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Fikri</h1>
-<h3 align="center">A passionate frontend developer from Malaysia</h3>
+<h3 align="center">A passionate Data Analyst from Malaysia</h3>
 
 - 🔭 I’m currently studies on **BACHELOR OF INFORMATION TECHNOLOGY (HONS.)**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Machine Learning and Data Visualization**
 
-- 💬 Ask me about **HTML, CSS, Javascript**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **mfikri4499@gmail.com**
 
