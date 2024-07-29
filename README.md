@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studies on **BACHELOR OF INFORMATION TECHNOLOGY (HONS.)**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Laravel** and **Vue.JS**
 
 - 💬 Ask me about **Data Analysis**
 
